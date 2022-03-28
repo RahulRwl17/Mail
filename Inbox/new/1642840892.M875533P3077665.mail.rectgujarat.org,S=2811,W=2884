@@ -1,0 +1,73 @@
+Return-Path: <>
+X-Original-To: yash@mail.mail.rectgujarat.org
+Delivered-To: yash@mail.mail.rectgujarat.org
+Received: by mail.mail.rectgujarat.org (Postfix)
+	id AF98912C052A; Sat, 22 Jan 2022 14:11:27 +0530 (IST)
+Date: Sat, 22 Jan 2022 14:11:27 +0530 (IST)
+From: MAILER-DAEMON@mail.mail.rectgujarat.org (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: yash@mail.mail.rectgujarat.org
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="28F2C12C0564.1642840887/mail.mail.rectgujarat.org"
+Message-Id: <20220122084127.AF98912C052A@mail.mail.rectgujarat.org>
+
+This is a MIME-encapsulated message.
+
+--28F2C12C0564.1642840887/mail.mail.rectgujarat.org
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host mail.mail.rectgujarat.org.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<admin@rectgujarat.org> (expanded from <root>): connect to
+    _dc-mx.580ccda6c53f.rectgujarat.org[104.21.54.84]:25: Connection timed out
+
+--28F2C12C0564.1642840887/mail.mail.rectgujarat.org
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; mail.mail.rectgujarat.org
+X-Postfix-Queue-ID: 28F2C12C0564
+X-Postfix-Sender: rfc822; yash@mail.mail.rectgujarat.org
+Arrival-Date: Mon, 17 Jan 2022 14:01:46 +0530 (IST)
+
+Final-Recipient: rfc822; admin@rectgujarat.org
+Original-Recipient: rfc822;root@mail.mail.rectgujarat.org
+Action: failed
+Status: 4.4.1
+Diagnostic-Code: X-Postfix; connect to
+    _dc-mx.580ccda6c53f.rectgujarat.org[104.21.54.84]:25: Connection timed out
+
+--28F2C12C0564.1642840887/mail.mail.rectgujarat.org
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <yash@mail.mail.rectgujarat.org>
+Received: by mail.mail.rectgujarat.org (Postfix)
+	id 28F2C12C0564; Mon, 17 Jan 2022 14:01:46 +0530 (IST)
+Delivered-To: root@mail.mail.rectgujarat.org
+Received: by mail.mail.rectgujarat.org (Postfix, from userid 1000)
+	id 1AA7A12C0562; Mon, 17 Jan 2022 14:01:46 +0530 (IST)
+To: root@mail.mail.rectgujarat.org
+From: yash@mail.mail.rectgujarat.org
+Auto-Submitted: auto-generated
+Subject: *** SECURITY information for mail.rectgujarat.org ***
+Message-Id: <20220117083146.1AA7A12C0562@mail.mail.rectgujarat.org>
+Date: Mon, 17 Jan 2022 14:01:46 +0530 (IST)
+
+mail.rectgujarat.org : Jan 17 14:01:46 : yash : problem with defaults entries ; TTY=pts/0 ; PWD=/home/yash ; USER=root ; 
+
+
+--28F2C12C0564.1642840887/mail.mail.rectgujarat.org--
